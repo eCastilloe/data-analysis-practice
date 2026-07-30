@@ -1,2 +1,2 @@
 # data-analysis-practice
-Practice analysing data using pandas and csv files, creating tables to better visualize the performance of products and their sales.
+Practica de analisis de data utilizando pandas y archivos csv, creando tablas para mejor visualizar productos y sus vetnas
